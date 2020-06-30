@@ -1,0 +1,123 @@
+
+			<!-- Highlights -->
+				<section id="highlights" class="wrapper style3">
+					<div class="title">Precios</div>
+					<div class="container">
+						<section class="wap">
+								
+							<section class="tabla">
+								<div class="tablax4">
+									<div class="caja-precio">
+										<div class="icono-precio">
+											<i class="fas fa-search-dollar"></i>
+										</div>
+										<div><h4>Plan uno</h4></div>
+										<div class="precio-1"><span class="dolar">$</span>612 <span class="mes">/mensuales</span></div>
+										<div>
+											<ul class="lista-precios">
+												<li class="lista-espacios">Hosting</li>
+												<li class="lista-espacios">Responsivo</li>
+												<li class="lista-espacios">Soporte</li>
+												<li class="lista-espacios">Plantilla basica</li>
+											
+											</ul>
+										</div>
+					
+										<div class="boton-contratar"><a href="#" class="contratar-a">Contratar</a></div>
+									</div>
+									
+								</div>
+								
+								<div class="tablax4">
+									<div class="caja-precio">
+										<div class="icono-precio">
+											<i class="fas fa-search-dollar"></i>
+										</div>
+										<div><h4>Plan dos</h4></div>
+										<div class="precio-1"><span class="dolar">$</span>847 <span class="mes">/mensuales</span></div>
+										<div>
+											<ul class="lista-precios">
+												<li class="lista-espacios">Plan 1</li>
+												<li class="lista-espacios">Ubicacion</li>
+												<li class="lista-espacios">Formulario de contacto</li>
+												<li class="lista-espacios">Plantilla Intermedia</li>
+											
+											</ul>
+										</div>
+					
+										<div class="boton-contratar"><a href="#" class="contratar-a">Contratar</a></div>
+									</div>
+									
+								</div>
+								<div class="tablax4">
+									<div class="caja-precio">
+										<div class="icono-precio">
+											<i class="fas fa-search-dollar"></i>
+										</div>
+										<div><h4>Plan tres</h4></div>
+										<div class="precio-1"><span class="dolar">$</span>1459 <span class="mes">/mensuales</span></div>
+										<div>
+											<ul class="lista-precios">
+												<li class="lista-espacios">Plan 2</li>
+												<li class="lista-espacios">Chat en vivo</li>
+												<li class="lista-espacios">Diseño web personalizado</li>
+												<li class="lista-espacios">Plantilla Avanzada</li>
+											
+											</ul>
+										</div>
+					
+										<div class="boton-contratar"><a href="#" class="contratar-a">Contratar</a></div>
+									</div>
+									
+								</div>
+								<div class="tablaxd">
+									<div class="caja-precio destacado">
+										<div class="icono-precio">
+											<i class="fas fa-search-dollar"></i>
+										</div>
+										<div><h4>Personalizado</h4></div>
+										<div> ??????????</div>
+										<div class="precio-1"><span class="dolar">$</span>? <span class="mes">/mensuales</span></div>
+										<div>
+											<ul class="lista-precios">
+												<li class="lista-espacios">Personalizado</li>
+												<li class="lista-espacios">Personalizado</li>
+												<li class="lista-espacios">Personalizado</li>
+												<li class="lista-espacios">Personalizado</li>
+											
+											</ul>
+										</div>
+					
+										<div class="boton-contratar"><a href="#" class="contratar-a">Contratar</a></div>
+									</div>
+									
+								</div>
+							</section>
+					
+						</section>
+						<style>
+							@media only screen and (max-width: 568px){
+								.tablax4{
+									width: 100%;
+								}
+								.tablaxd{
+									width: 100%;
+								}
+							}
+							@media only screen and (min-width: 569px) and (max-width: 1124px){
+								.tablax4{
+									width: 50%;
+								}
+								.tablaxd{
+									width: 50%;
+								}
+							}
+						</style>
+					<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+						
+						
+					</div>
+				</section>
+			</section>
+		</section>
+	</section>
